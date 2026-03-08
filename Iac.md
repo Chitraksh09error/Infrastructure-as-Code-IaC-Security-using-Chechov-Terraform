@@ -107,3 +107,5 @@ checkov -d .
 <p align="center">
   <img src="Images/output.png" width="700">
 </p>
+
+# If you find this repository helpful, please give it a star ⭐ and share it with others to support the project. 🙌
