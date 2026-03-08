@@ -102,3 +102,8 @@ resource "azurerm_storage_account" "example" {
 checkov -d .
 ```
 ## PASSED checks
+
+## Application Screenshot
+<p align="center">
+  <img src="Images/output.png" width="700">
+</p>
