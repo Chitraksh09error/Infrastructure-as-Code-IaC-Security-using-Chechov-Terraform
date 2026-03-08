@@ -103,7 +103,7 @@ checkov -d .
 ```
 ## PASSED checks
 
-## Application Screenshot
+## Output Screenshot
 <p align="center">
   <img src="Images/output.png" width="700">
 </p>
